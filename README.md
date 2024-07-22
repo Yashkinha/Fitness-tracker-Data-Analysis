@@ -8,16 +8,6 @@ This repository contains the code and analysis for analyzing Fitbit fitness trac
 ![image](https://github.com/oxerz8/Fitness-tracker-Data-Analysis/assets/23288977/83b23b05-5c75-48e5-8b6e-f8cddb25ae65)
 
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Business Task](#business-task)
-- [Data Source](#data-source)
-- [Methodology](#methodology)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -53,12 +43,5 @@ The results of the analysis, including the identified smart device usage trends,
 
 Contributions to this project are welcome. If you have any suggestions, improvements, or additional insights, please feel free to submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or further information, please contact me at sidharthk16@gmail.com.
 
 ---
